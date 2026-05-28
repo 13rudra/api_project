@@ -25,7 +25,9 @@ https://fakestoreapi.com/products
 
 ## Output
 
-The application successfully displays products from the Fake Store API in a modern shopping-style interface.
+
+The application successfully fetches product data from the Fake Store REST API and displays it in a responsive GridView layout. Each product card shows the product image, title, price, and description dynamically using JSON parsing and HTTP requests in Flutter.
+
 
 ## How to Run
 
