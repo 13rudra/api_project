@@ -1,2 +1,37 @@
-# api_project
-# Fake Store API Flutter Application  ## Project Description  This project is a Flutter-based mobile/web application developed to demonstrate REST API integration in Flutter. The application fetches product data from the Fake Store API and displays it in a modern GridView layout.  The app performs HTTP GET requests to retrieve JSON data from the API, parses the JSON response, and dynamically displays product information such as product image, title, price, and description.  The main objective of this project is to understand:  * REST API integration * JSON parsing * HTTP requests in Flutter * Dynamic UI rendering using GridView * State management using StatefulWidget  ## API Used  https://fakestoreapi.com/products  ## Features  * Fetch product data from REST API * Display products in GridView * Product images display using Image.network() * Loading indicator while fetching data * Modern and responsive UI * Error handling for failed API requests  ## Technologies Used  * Flutter * Dart * HTTP Package * REST API * JSON Parsing  ## Output  The application successfully displays products from the Fake Store API with images, titles, prices, and descriptions in a responsive shopping-style interface.  ## Conclusion  This project helped in understanding how Flutter applications interact with REST APIs and how JSON data can be parsed and displayed dynamically in a user-friendly interface.
+# Fake Store API Flutter App
+
+## Description
+
+This Flutter application integrates the Fake Store REST API to fetch and display product data dynamically. The app uses HTTP requests and JSON parsing to show product images, titles, prices, and descriptions in a modern GridView layout.
+
+## API Used
+
+https://fakestoreapi.com/products
+
+## Features
+
+* REST API Integration
+* JSON Parsing
+* GridView UI
+* Product Images
+* Responsive Design
+* Loading Indicator
+
+## Technologies Used
+
+* Flutter
+* Dart
+* HTTP Package
+
+## Output
+
+The application successfully displays products from the Fake Store API in a modern shopping-style interface.
+
+## How to Run
+
+1. flutter pub get
+2. flutter run
+
+## Author
+
+Rudra Dodiya
